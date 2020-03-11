@@ -1,0 +1,4 @@
+requests
+face_recognition<1.4
+opencv-python
+opencv-python-headless
